@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds">
-    <option name="x" value="255" />
-    <option name="y" value="33" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-97" />
+    <option name="y" value="51" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
 </project>
